@@ -6,8 +6,8 @@
      enquanto a livraria não tiver um endereço para divulgar.
 */
 const STORE_CONFIG = {
-  whatsapp: "",
-  address: ""
+  whatsapp: "5511948593840",
+  address: "Itaquera, São Paulo - SP"
 };
 
 const products = [
